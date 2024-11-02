@@ -1,0 +1,14 @@
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Seminar4Task2\bin\Debug\net8.0\Seminar4Task2.exe
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Seminar4Task2\bin\Debug\net8.0\Seminar4Task2.deps.json
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Seminar4Task2\bin\Debug\net8.0\Seminar4Task2.runtimeconfig.json
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Seminar4Task2\bin\Debug\net8.0\Seminar4Task2.dll
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Seminar4Task2\bin\Debug\net8.0\Seminar4Task2.pdb
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Seminar4Task2\obj\Debug\net8.0\Seminar4Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Seminar4Task2\obj\Debug\net8.0\Seminar4Task2.AssemblyInfoInputs.cache
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Seminar4Task2\obj\Debug\net8.0\Seminar4Task2.AssemblyInfo.cs
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Seminar4Task2\obj\Debug\net8.0\Seminar4Task2.csproj.CoreCompileInputs.cache
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Seminar4Task2\obj\Debug\net8.0\Seminar4Task2.dll
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Seminar4Task2\obj\Debug\net8.0\refint\Seminar4Task2.dll
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Seminar4Task2\obj\Debug\net8.0\Seminar4Task2.pdb
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Seminar4Task2\obj\Debug\net8.0\Seminar4Task2.genruntimeconfig.cache
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Seminar4Task2\obj\Debug\net8.0\ref\Seminar4Task2.dll
