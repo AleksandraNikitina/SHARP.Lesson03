@@ -1,0 +1,14 @@
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Lecture3Task1\bin\Debug\net8.0\Lecture3Task1.exe
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Lecture3Task1\bin\Debug\net8.0\Lecture3Task1.deps.json
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Lecture3Task1\bin\Debug\net8.0\Lecture3Task1.runtimeconfig.json
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Lecture3Task1\bin\Debug\net8.0\Lecture3Task1.dll
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Lecture3Task1\bin\Debug\net8.0\Lecture3Task1.pdb
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Lecture3Task1\obj\Debug\net8.0\Lecture3Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Lecture3Task1\obj\Debug\net8.0\Lecture3Task1.AssemblyInfoInputs.cache
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Lecture3Task1\obj\Debug\net8.0\Lecture3Task1.AssemblyInfo.cs
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Lecture3Task1\obj\Debug\net8.0\Lecture3Task1.csproj.CoreCompileInputs.cache
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Lecture3Task1\obj\Debug\net8.0\Lecture3Task1.dll
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Lecture3Task1\obj\Debug\net8.0\refint\Lecture3Task1.dll
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Lecture3Task1\obj\Debug\net8.0\Lecture3Task1.pdb
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Lecture3Task1\obj\Debug\net8.0\Lecture3Task1.genruntimeconfig.cache
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\Lecture3Task1\obj\Debug\net8.0\ref\Lecture3Task1.dll
