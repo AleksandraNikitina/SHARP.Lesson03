@@ -1,0 +1,15 @@
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask3\obj\Debug\net8.0\HomeTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask3\obj\Debug\net8.0\HomeTask3.AssemblyInfoInputs.cache
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask3\obj\Debug\net8.0\HomeTask3.AssemblyInfo.cs
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask3\obj\Debug\net8.0\HomeTask3.csproj.CoreCompileInputs.cache
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask3\obj\Debug\net8.0\HomeTask3.sourcelink.json
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask3\bin\Debug\net8.0\HomeTask3.exe
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask3\bin\Debug\net8.0\HomeTask3.deps.json
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask3\bin\Debug\net8.0\HomeTask3.runtimeconfig.json
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask3\bin\Debug\net8.0\HomeTask3.dll
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask3\bin\Debug\net8.0\HomeTask3.pdb
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask3\obj\Debug\net8.0\HomeTask3.dll
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask3\obj\Debug\net8.0\refint\HomeTask3.dll
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask3\obj\Debug\net8.0\HomeTask3.pdb
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask3\obj\Debug\net8.0\HomeTask3.genruntimeconfig.cache
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask3\obj\Debug\net8.0\ref\HomeTask3.dll

@@ -1,0 +1,15 @@
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask2\bin\Debug\net8.0\HomeTask2.exe
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask2\bin\Debug\net8.0\HomeTask2.deps.json
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask2\bin\Debug\net8.0\HomeTask2.runtimeconfig.json
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask2\bin\Debug\net8.0\HomeTask2.dll
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask2\bin\Debug\net8.0\HomeTask2.pdb
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask2\obj\Debug\net8.0\HomeTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask2\obj\Debug\net8.0\HomeTask2.AssemblyInfoInputs.cache
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask2\obj\Debug\net8.0\HomeTask2.AssemblyInfo.cs
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask2\obj\Debug\net8.0\HomeTask2.csproj.CoreCompileInputs.cache
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask2\obj\Debug\net8.0\HomeTask2.sourcelink.json
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask2\obj\Debug\net8.0\HomeTask2.dll
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask2\obj\Debug\net8.0\refint\HomeTask2.dll
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask2\obj\Debug\net8.0\HomeTask2.pdb
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask2\obj\Debug\net8.0\HomeTask2.genruntimeconfig.cache
+C:\Users\asand\Desktop\Programming Languages\CSHARP\Lesson03 Functions\HomeTask2\obj\Debug\net8.0\ref\HomeTask2.dll
